@@ -18,3 +18,5 @@ pip --version
     pip freeze > requirements.txt
 • Autor
     Aldo Emiliano Oliva Becerra 
+• Estado
+    Esta es la 2nda versión
