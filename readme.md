@@ -20,3 +20,7 @@ pip --version
     Aldo Emiliano Oliva Becerra 
 • Estado
     Esta es la 2nda versión
+. Colaboracion 
+    Fernando Arath Quezada Rodriguez 
+
+    
